@@ -1,0 +1,27 @@
+.heading{
+    text-align: center;
+}
+
+.title {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.intro {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.add-button {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+.button-container {
+    text-align: right;
+    padding-right: 35%
+}
+
+.items{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    padding-left: 30%
+}
